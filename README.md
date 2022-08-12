@@ -10,12 +10,19 @@ The implemented vector functions
 
 
 isEmpty () - Function says is your Vector empty or not. 
+
 size () - Function returns the size of the Vector. 
+
 capacity () - Function return the capacity of the Vector. 
+
 insert () - Function gets the index where you want to push your element and the element. 
+
 push_back () - Function gets the value and pushes it into Vector. 
+
 pop_back () - Function delete the last element of the Vector. 
+
 erase () - Functio gets the index of element and delete it from Vector. 
+
 and others...
 
 <hr>
